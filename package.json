@@ -1,0 +1,14 @@
+{
+  "name": "corpus-from-pdfs",
+  "version": "1.0.0",
+  "description": "this makes a text corpus (for machine learning) from a batch of PDFs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elsehow",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "pdf-extract": "^1.0.9"
+  }
+}
